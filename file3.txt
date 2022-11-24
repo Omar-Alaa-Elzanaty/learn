@@ -1,3 +1,7 @@
 this is third file
 second line in third file
+<<<<<<< HEAD
 third in main
+=======
+new line in newtest branch
+>>>>>>> e7b955204b9cd492a8b281686ab27c715b402290
